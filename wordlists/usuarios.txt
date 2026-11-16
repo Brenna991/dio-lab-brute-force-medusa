@@ -1,0 +1,10 @@
+admin
+root
+user
+msfadmin
+postgres
+service
+guest
+teste
+suporte
+operador
